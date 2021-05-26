@@ -1,0 +1,2 @@
+var main scl journalctl | cat > /var/log/syslog;scl sleep 1
+lop :main:

@@ -1,2 +1,2 @@
 var main scl journalctl | grep '' > /var/log/syslog;sec
-lop :main:
+uvr main lop @
